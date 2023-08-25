@@ -6,6 +6,8 @@ description
 - If none of the criteria is selected alert message will be displayed "Please select atleast one category".
 - Once criterias are selected password is displayed in textbox.
 
+link for deployed application - https://mrunmaigadbail.github.io/PasswordGenerator/
+
 secreen shots of the working code
 ![password generater 1](https://github.com/mrunmaigadbail/PasswordGenerator/assets/141286475/546c2b40-f823-4d24-8bef-54605aa578ac)
 ![password generater 2](https://github.com/mrunmaigadbail/PasswordGenerator/assets/141286475/f5e56881-ad65-4424-95f6-74861f678644)
