@@ -1,6 +1,6 @@
 # PasswordGenerator
 description
-- WHEN click the button to generate a password prompt is displayed to enter lenth of password.
+- WHEN click the button to generate a password prompt is displayed to enter length of password.
 - If enter password length other than integer and less than 8 or greater than 128 then prompt message will be updated to "Please enter valid password length between 8 to 128".
 - Then various confirm is diplayed to select criteria for password include lowercase, uppercase, numeric, and/or special characters.
 - If none of the criteria is selected alert message will be displayed "Please select atleast one category".
